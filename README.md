@@ -82,4 +82,3 @@ The final report combines group activity, vocabulary, response patterns, silent 
 ## AI Assistance
 
 AI tools were used as a learning aid for understanding selected Python concepts and debugging. AI-assisted sections are identified using comments in the notebook where applicable.
-Update README with project documentation
