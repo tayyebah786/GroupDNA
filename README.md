@@ -85,4 +85,4 @@ AI tools were used as a learning aid for understanding selected Python concepts 
 
 ## Final Report Screenshot
 
-"C:\Users\tayyebah\OneDrive\Desktop\Screenshot 2026-09-21 230203.zip"
+![GroupDNA](Screenshot 2026-09-21 230203.zip)
